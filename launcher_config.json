@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Shadowbra",
 	"newClientUrl" : "https://github.com/arcanjo1192/canary-launcher/releases/download/1.0.0/client-to-update.zip",
-	"clientExecutable": "shadowbra.exe"
+	"clientExecutable": "Shadowbra.exe"
 }
